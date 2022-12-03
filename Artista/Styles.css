@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(90, 18, 13);
+}
+p {
+    color: aliceblue;
+    font-size: 20px;
+}
+h1 {
+color: aliceblue;
+font-size: 50px;
+}
+a{
+    color: blanchedalmond;
+}
+.uno{
+    width: 700px;
+    height: 700px;
+}
